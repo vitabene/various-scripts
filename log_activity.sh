@@ -1,5 +1,5 @@
 #!/bin/bash
-LOGPATH=./activity_log.jsonl
+LOGPATH=/home/vitabenes/projects/_dormant/various/activity_log.jsonl
 # JSON date format
 DATEFORMAT="%Y-%m-%dT%TZ"
 function recordWindowTitle {
